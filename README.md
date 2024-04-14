@@ -1,7 +1,8 @@
-### Hi there 👋
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Data+Analyst;Business Analyst&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Data+Analyst;Business+Analyst&center=true&width=380&height=45">
 </p>
+
+### Hi there 👋
 <!--
 **phamvutuyetanh/phamvutuyetanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
