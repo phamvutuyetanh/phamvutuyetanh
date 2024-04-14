@@ -4,12 +4,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am PHAM VU TUYET ANH
 =========================================================================================================================================
 
-Fresher Data Analyst
+I am a Fresher Data Analyst in VietNam
 
 ### About Me
 
+* 🔭  I’m currently working on something cool 😉
+* 🌱  I’m currently learning DA, BA 💻
+* ✌️  Enjoy to do programming and sharing knowledge.
+* ❤️  Love to analyzing data, getting valuable insight and trying new features.
+* 💬  Ask me about somthing related to Data Analyst
 * ✉️  You can contact me at [phamvutuyetanh@gmail.com](mailto:phamvutuyetanh@gmail.com)
-* 🧠  I'm learning Data Science
 
 ### Skills
 
