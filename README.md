@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F42FF&center=true&vCenter=true&random=false&width=435&lines=Data+Science+Student;Data+Analyst;Business+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F42FF&center=true&vCenter=true&random=false&width=435&lines=Data+Science+Student;Data+Analyst](https://git.io/typing-svg)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am PHAM VU TUYET ANH
